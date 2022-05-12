@@ -1,0 +1,275 @@
+[DEBUG|logging_pack.py:45] 2021-06-09 23:29:01,650 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-09 23:29:01,650 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-09 23:29:01,650 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-09 23:29:01,650 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-09 23:29:01,650 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-09 23:33:47,600 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-09 23:33:47,600 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-09 23:33:47,600 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-09 23:33:47,600 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-09 23:33:47,600 > critical 모드!
+[DEBUG|open_api.py:309] 2021-06-09 23:34:28,035 > connected
+[DEBUG|open_api.py:250] 2021-06-09 23:34:28,035 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:257] 2021-06-09 23:34:28,035 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:253] 2021-06-09 23:34:28,035 > 계좌번호 : 8167760411
+[DEBUG|open_api.py:166] 2021-06-09 23:34:28,035 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api.py:186] 2021-06-09 23:34:28,035 > 계정이 존재하지 않습니다!! library/cf.py 파일에 계좌번호를 입력해주세요!
+[DEBUG|logging_pack.py:45] 2021-06-09 23:35:42,992 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-09 23:35:42,992 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-09 23:35:42,992 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-09 23:35:42,992 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-09 23:35:42,992 > critical 모드!
+[DEBUG|open_api.py:309] 2021-06-09 23:35:47,355 > connected
+[DEBUG|open_api.py:250] 2021-06-09 23:35:47,355 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:257] 2021-06-09 23:35:47,355 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:253] 2021-06-09 23:35:47,355 > 계좌번호 : 8167760411
+[DEBUG|open_api.py:166] 2021-06-09 23:35:47,355 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api.py:180] 2021-06-09 23:35:47,355 > 모의투자 1!!
+[DEBUG|open_api.py:213] 2021-06-09 23:35:47,355 > db name !!! : JackBot1_imi1
+[DEBUG|open_api.py:207] 2021-06-09 23:35:47,390 > JackBot1_imi1 데이터 베이스가 존재하지 않는다! 
+[DEBUG|open_api.py:196] 2021-06-09 23:35:47,390 > create_database!!! JackBot1_imi1
+[DEBUG|open_api.py:1735] 2021-06-09 23:35:47,437 > daily_craw DB가 존재하지 않아 생성 중...
+[DEBUG|open_api.py:1738] 2021-06-09 23:35:47,437 > daily_craw 생성 완료
+[DEBUG|open_api.py:1735] 2021-06-09 23:35:47,437 > daily_buy_list DB가 존재하지 않아 생성 중...
+[DEBUG|open_api.py:1738] 2021-06-09 23:35:47,452 > daily_buy_list 생성 완료
+[DEBUG|open_api.py:1735] 2021-06-09 23:35:47,452 > min_craw DB가 존재하지 않아 생성 중...
+[DEBUG|open_api.py:1738] 2021-06-09 23:35:47,452 > min_craw 생성 완료
+[DEBUG|open_api.py:84] 2021-06-09 23:35:47,483 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api.py:85] 2021-06-09 23:35:47,483 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api.py:86] 2021-06-09 23:35:47,483 > self.sf.sell_list_num : 1
+[DEBUG|open_api.py:416] 2021-06-09 23:35:47,499 > init_db_setting_data !! 
+[DEBUG|open_api.py:116] 2021-06-09 23:35:47,640 > all_item_db 없어서 생성!! init !! 
+[DEBUG|open_api.py:461] 2021-06-09 23:35:47,640 > db_to_all_item 함수에 들어왔다!!!
+[DEBUG|open_api.py:1293] 2021-06-09 23:35:47,749 > delete_all_item!!!!!!!!
+[DEBUG|open_api.py:1301] 2021-06-09 23:35:47,749 > delete_all_item!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[DEBUG|open_api.py:1302] 2021-06-09 23:35:47,749 > 0
+[DEBUG|open_api.py:1468] 2021-06-09 23:35:47,749 > get_d2_deposit 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:47,749 > 1
+[DEBUG|open_api.py:296] 2021-06-09 23:35:48,798 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-09 23:35:48,798 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api.py:1479] 2021-06-09 23:35:48,798 > _opw00001!!!
+[DEBUG|open_api.py:1483] 2021-06-09 23:35:48,798 > 예수금!!!!
+[DEBUG|open_api.py:1484] 2021-06-09 23:35:48,798 > 000000500000000
+[DEBUG|open_api.py:541] 2021-06-09 23:35:48,798 > check_balance 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:48,798 > 2
+[DEBUG|open_api.py:296] 2021-06-09 23:35:48,845 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-09 23:35:48,845 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api.py:1632] 2021-06-09 23:35:48,845 > _opw00018!!!
+[DEBUG|collector_api.py:38] 2021-06-09 23:35:50,626 > code_update_check 함수에 들어왔습니다.
+[DEBUG|collector_api.py:253] 2021-06-09 23:35:54,653 > get_code_list
+[DEBUG|open_api.py:1468] 2021-06-09 23:35:55,521 > get_d2_deposit 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:55,521 > 3
+[DEBUG|open_api.py:296] 2021-06-09 23:35:55,568 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-09 23:35:55,568 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api.py:1479] 2021-06-09 23:35:55,568 > _opw00001!!!
+[DEBUG|open_api.py:1483] 2021-06-09 23:35:55,568 > 예수금!!!!
+[DEBUG|open_api.py:1484] 2021-06-09 23:35:55,568 > 000000500000000
+[DEBUG|open_api.py:541] 2021-06-09 23:35:55,568 > check_balance 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:56,133 > 4
+[DEBUG|open_api.py:296] 2021-06-09 23:35:56,165 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-09 23:35:56,165 > [00Z310] 모의투자 조회가 완료되었습니다
+[DEBUG|open_api.py:1632] 2021-06-09 23:35:56,165 > _opw00018!!!
+[DEBUG|collector_api.py:586] 2021-06-09 23:35:56,165 > db_to_today_profit_list!!!
+[DEBUG|open_api.py:1701] 2021-06-09 23:35:56,165 > reset_opt10073_output!!!
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:56,743 > 5
+[DEBUG|open_api.py:296] 2021-06-09 23:35:56,805 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-09 23:35:56,805 >  조회가 완료되었습니다.
+[DEBUG|open_api.py:1598] 2021-06-09 23:35:56,805 > _opt10073!!!
+[DEBUG|open_api.py:1619] 2021-06-09 23:35:56,805 > _opt10073 end!!!
+[DEBUG|collector_api.py:604] 2021-06-09 23:35:56,805 > self.opt10073_output['multi']!!!!!
+[DEBUG|collector_api.py:605] 2021-06-09 23:35:56,805 > []
+[DEBUG|collector_api.py:627] 2021-06-09 23:35:56,805 > today_profit_item!!!
+[DEBUG|collector_api.py:628] 2021-06-09 23:35:56,805 > Empty DataFrame
+Columns: [date, code, code_name, amount, today_profit, earning_rate]
+Index: []
+[DEBUG|collector_api.py:923] 2021-06-09 23:35:56,805 > py_check_balance!!!
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:57,352 > 6
+[DEBUG|open_api.py:296] 2021-06-09 23:35:57,385 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-09 23:35:57,385 >  조회가 완료되었습니다.
+[DEBUG|open_api.py:1496] 2021-06-09 23:35:57,385 > _opt10074!!!
+[DEBUG|open_api.py:1505] 2021-06-09 23:35:57,385 > today_profit
+[DEBUG|open_api.py:1506] 2021-06-09 23:35:57,385 > 0
+[DEBUG|collector_api.py:690] 2021-06-09 23:35:57,385 > self.open_api.today!!!!!!!!
+[DEBUG|collector_api.py:691] 2021-06-09 23:35:57,385 > 20210609
+[DEBUG|collector_api.py:748] 2021-06-09 23:35:57,544 > jango_data rows!!!
+[DEBUG|collector_api.py:749] 2021-06-09 23:35:57,544 > [('20210609',)]
+[DEBUG|collector_api.py:751] 2021-06-09 23:35:57,544 > jango_data len(rows)!!!
+[DEBUG|collector_api.py:753] 2021-06-09 23:35:57,544 > 1
+[DEBUG|open_api.py:581] 2021-06-09 23:35:57,700 > db_to_possesed_item 함수에 들어왔습니다!
+[DEBUG|open_api.py:1188] 2021-06-09 23:35:57,778 > possess_item 테이블에는 있는데 all_item_db에 없는 종목들 처리!!!
+[DEBUG|open_api.py:1189] 2021-06-09 23:35:57,778 > []
+[DEBUG|collector_api.py:174] 2021-06-09 23:35:57,778 > db_to_daily_craw 함수에 들어왔습니다!
+[DEBUG|collector_api.py:194] 2021-06-09 23:35:57,825 > ++++++++++++++DRB동일++++++++++++++++++++1/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:35:57,825 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:57,965 > 7
+[DEBUG|open_api.py:706] 2021-06-09 23:35:58,133 > DRB동일 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:58,571 > 8
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:59,181 > 9
+[DEBUG|open_api.py:1134] 2021-06-09 23:35:59,783 > 10
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:00,387 > 11
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:00,997 > 12
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:01,600 > 13
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:02,209 > 14
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:02,822 > 15
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:03,431 > 16
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:04,032 > 17
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:04,643 > 18
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:05,245 > 19
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:05,850 > 20
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:06,453 > 21
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:07,055 > 22
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:07,665 > 23
+[INFO|collector_api.py:555] 2021-06-09 23:36:09,781 > daily_craw.DRB동일 업데이트 완료 004840
+[INFO|collector_api.py:556] 2021-06-09 23:36:09,781 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:36:09,781 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:36:09,797 > ++++++++++++++DSR++++++++++++++++++++2/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:36:09,797 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:09,797 > 24
+[DEBUG|open_api.py:706] 2021-06-09 23:36:09,953 > DSR 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:10,411 > 25
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:11,025 > 26
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:11,628 > 27
+[INFO|collector_api.py:555] 2021-06-09 23:36:12,399 > daily_craw.DSR 업데이트 완료 155660
+[INFO|collector_api.py:556] 2021-06-09 23:36:12,399 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:36:12,399 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:36:12,399 > ++++++++++++++GS글로벌++++++++++++++++++++3/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:36:12,399 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:12,399 > 28
+[DEBUG|open_api.py:706] 2021-06-09 23:36:12,571 > GS글로벌 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:13,025 > 29
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:13,638 > 30
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:14,240 > 31
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:14,843 > 32
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:15,447 > 33
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:16,057 > 34
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:16,660 > 35
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:17,270 > 36
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:17,873 > 37
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:18,482 > 38
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:19,094 > 39
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:19,709 > 40
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:20,311 > 41
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:20,922 > 42
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:21,531 > 43
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:22,134 > 44
+[INFO|collector_api.py:555] 2021-06-09 23:36:24,334 > daily_craw.GS글로벌 업데이트 완료 001250
+[INFO|collector_api.py:556] 2021-06-09 23:36:24,334 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:36:24,334 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:36:24,350 > ++++++++++++++HDC현대산업개발++++++++++++++++++++4/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:36:24,350 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:24,350 > 45
+[DEBUG|open_api.py:706] 2021-06-09 23:36:24,506 > HDC현대산업개발 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:24,976 > 46
+[INFO|collector_api.py:555] 2021-06-09 23:36:25,346 > daily_craw.HDC현대산업개발 업데이트 완료 294870
+[INFO|collector_api.py:556] 2021-06-09 23:36:25,346 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:36:25,346 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:36:25,362 > ++++++++++++++KEC++++++++++++++++++++5/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:36:25,362 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:25,581 > 47
+[DEBUG|open_api.py:706] 2021-06-09 23:36:25,730 > KEC 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:26,185 > 48
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:26,788 > 49
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:27,398 > 50
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:28,009 > 51
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:28,621 > 52
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:29,230 > 53
+[INFO|collector_api.py:555] 2021-06-09 23:36:30,177 > daily_craw.KEC 업데이트 완료 092220
+[INFO|collector_api.py:556] 2021-06-09 23:36:30,177 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:36:30,177 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:36:30,193 > ++++++++++++++KG동부제철++++++++++++++++++++6/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:36:30,193 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:30,193 > 54
+[DEBUG|open_api.py:706] 2021-06-09 23:36:30,349 > KG동부제철 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:30,819 > 55
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:31,420 > 56
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:32,031 > 57
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:32,633 > 58
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:33,244 > 59
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:33,854 > 60
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:34,465 > 61
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:35,075 > 62
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:35,678 > 63
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:36,287 > 64
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:36,891 > 65
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:37,493 > 66
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:38,096 > 67
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:38,707 > 68
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:39,309 > 69
+[INFO|collector_api.py:555] 2021-06-09 23:36:41,503 > daily_craw.KG동부제철 업데이트 완료 016380
+[INFO|collector_api.py:556] 2021-06-09 23:36:41,503 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:36:41,503 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:36:41,518 > ++++++++++++++KG케미칼++++++++++++++++++++7/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:36:41,518 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:41,518 > 70
+[DEBUG|open_api.py:706] 2021-06-09 23:36:41,659 > KG케미칼 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:42,121 > 71
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:42,726 > 72
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:43,328 > 73
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:43,939 > 74
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:44,541 > 75
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:45,144 > 76
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:45,754 > 77
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:46,356 > 78
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:46,966 > 79
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:47,568 > 80
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:48,178 > 81
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:48,788 > 82
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:49,391 > 83
+[INFO|collector_api.py:555] 2021-06-09 23:36:51,407 > daily_craw.KG케미칼 업데이트 완료 001390
+[INFO|collector_api.py:556] 2021-06-09 23:36:51,407 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:36:51,423 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:36:51,423 > ++++++++++++++KTis++++++++++++++++++++8/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:36:51,423 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:51,423 > 84
+[DEBUG|open_api.py:706] 2021-06-09 23:36:51,595 > KTis 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:52,049 > 85
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:52,652 > 86
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:53,255 > 87
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:53,858 > 88
+[INFO|collector_api.py:555] 2021-06-09 23:36:54,725 > daily_craw.KTis 업데이트 완료 058860
+[INFO|collector_api.py:556] 2021-06-09 23:36:54,725 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:36:54,725 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:36:54,725 > ++++++++++++++LG이노텍++++++++++++++++++++9/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:36:54,725 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:54,725 > 89
+[DEBUG|open_api.py:706] 2021-06-09 23:36:54,897 > LG이노텍 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:55,355 > 90
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:55,969 > 91
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:56,578 > 92
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:57,180 > 93
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:57,785 > 94
+[INFO|collector_api.py:555] 2021-06-09 23:36:58,724 > daily_craw.LG이노텍 업데이트 완료 011070
+[INFO|collector_api.py:556] 2021-06-09 23:36:58,724 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:36:58,724 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:36:58,740 > ++++++++++++++LG전자++++++++++++++++++++10/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:36:58,740 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:58,740 > 95
+[DEBUG|open_api.py:706] 2021-06-09 23:36:58,896 > LG전자 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:59,359 > 96
+[DEBUG|open_api.py:1134] 2021-06-09 23:36:59,963 > 97
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:00,565 > 98
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:01,168 > 99
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:01,771 > 100
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:02,381 > 101
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:02,984 > 102
+[INFO|collector_api.py:555] 2021-06-09 23:37:04,343 > daily_craw.LG전자 업데이트 완료 066570
+[INFO|collector_api.py:556] 2021-06-09 23:37:04,343 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:37:04,343 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:37:04,359 > ++++++++++++++LG헬로비전++++++++++++++++++++11/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:37:04,359 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:04,359 > 103
+[DEBUG|open_api.py:706] 2021-06-09 23:37:04,515 > LG헬로비전 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:04,969 > 104
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:05,581 > 105
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:06,190 > 106
+[INFO|collector_api.py:555] 2021-06-09 23:37:06,935 > daily_craw.LG헬로비전 업데이트 완료 037560
+[INFO|collector_api.py:556] 2021-06-09 23:37:06,935 > daily_buy_list 업데이트 중..
+[INFO|collector_api.py:573] 2021-06-09 23:37:06,935 > daily_buy_list 업데이트 완료
+[DEBUG|collector_api.py:194] 2021-06-09 23:37:06,951 > ++++++++++++++OCI++++++++++++++++++++12/2449
+[DEBUG|open_api.py:666] 2021-06-09 23:37:06,951 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:06,951 > 107
+[DEBUG|open_api.py:706] 2021-06-09 23:37:07,091 > OCI 테이블이 daily_craw db 에 없다. 새로 생성! 
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:07,580 > 108
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:08,183 > 109
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:08,795 > 110
+[DEBUG|open_api.py:1134] 2021-06-09 23:37:09,407 > 111

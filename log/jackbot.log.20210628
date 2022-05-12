@@ -1,0 +1,434 @@
+[DEBUG|logging_pack.py:45] 2021-06-28 01:23:33,022 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 01:23:33,022 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 01:23:33,022 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 01:23:33,022 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 01:23:33,022 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 01:25:14,803 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 01:25:14,803 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 01:25:14,803 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 01:25:14,803 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 01:25:14,803 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 01:25:48,075 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 01:25:48,075 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 01:25:48,075 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 01:25:48,075 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 01:25:48,075 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 01:35:58,042 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 01:35:58,042 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 01:35:58,043 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 01:35:58,043 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 01:35:58,043 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 01:48:07,642 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 01:48:07,642 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 01:48:07,642 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 01:48:07,643 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 01:48:07,643 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 01:48:38,511 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 01:48:38,512 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 01:48:38,512 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 01:48:38,512 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 01:48:38,512 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:05:35,723 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:05:35,723 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:05:35,723 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:05:35,723 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:05:35,723 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:06:29,665 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:06:29,665 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:06:29,665 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:06:29,665 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:06:29,665 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:07:02,218 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:07:02,218 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:07:02,218 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:07:02,218 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:07:02,218 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:08:20,764 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:08:20,764 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:08:20,764 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:08:20,764 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:08:20,764 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:09:15,118 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:09:15,118 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:09:15,118 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:09:15,118 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:09:15,118 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:38:54,935 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:38:54,936 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:38:54,936 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:38:54,936 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:38:54,936 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:39:19,062 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:39:19,062 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:39:19,062 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:39:19,062 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:39:19,062 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:49:24,528 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:49:24,528 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:49:24,528 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:49:24,529 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:49:24,529 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:49:53,489 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:49:53,489 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:49:53,489 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:49:53,489 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:49:53,489 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:50:24,888 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:50:24,888 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:50:24,888 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:50:24,888 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:50:24,888 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:50:54,862 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:50:54,862 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:50:54,862 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:50:54,862 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:50:54,862 > critical 모드!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:51:10,210 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:51:10,211 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:51:10,211 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:51:10,211 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:51:10,211 > critical 모드!
+[DEBUG|open_api.py:309] 2021-06-28 23:51:49,117 > connected
+[DEBUG|open_api.py:250] 2021-06-28 23:51:49,118 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:257] 2021-06-28 23:51:49,118 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:253] 2021-06-28 23:51:49,118 > 계좌번호 : 8001277211
+[DEBUG|open_api.py:166] 2021-06-28 23:51:49,118 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api.py:180] 2021-06-28 23:51:49,118 > 모의투자 1!!
+[DEBUG|open_api.py:213] 2021-06-28 23:51:49,118 > db name !!! : JackBot1_imi1
+[DEBUG|open_api.py:204] 2021-06-28 23:51:49,138 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api.py:84] 2021-06-28 23:51:49,179 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api.py:85] 2021-06-28 23:51:49,179 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api.py:86] 2021-06-28 23:51:49,179 > self.sf.sell_list_num : 1
+[DEBUG|open_api.py:92] 2021-06-28 23:51:49,219 > setting_data db 존재한다!!!
+[DEBUG|open_api.py:1468] 2021-06-28 23:51:49,315 > get_d2_deposit 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:51:49,315 > 1
+[DEBUG|open_api.py:296] 2021-06-28 23:51:50,398 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-28 23:51:50,398 > [100000] 모의투자 조회완료
+[DEBUG|open_api.py:1479] 2021-06-28 23:51:50,400 > _opw00001!!!
+[DEBUG|open_api.py:1483] 2021-06-28 23:51:50,400 > 예수금!!!!
+[DEBUG|open_api.py:1484] 2021-06-28 23:51:50,400 > 000000500000000
+[DEBUG|open_api.py:541] 2021-06-28 23:51:50,401 > check_balance 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:51:50,401 > 2
+[DEBUG|open_api.py:296] 2021-06-28 23:51:50,419 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-28 23:51:50,419 > [571578] 모의투자 해당조회내역이 없습니다.
+[DEBUG|open_api.py:1632] 2021-06-28 23:51:50,421 > _opw00018!!!
+[DEBUG|collector_api.py:38] 2021-06-28 23:51:52,295 > code_update_check 함수에 들어왔습니다.
+[DEBUG|collector_api.py:253] 2021-06-28 23:51:56,266 > get_code_list
+[DEBUG|open_api.py:1468] 2021-06-28 23:51:57,436 > get_d2_deposit 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:51:57,437 > 3
+[DEBUG|open_api.py:296] 2021-06-28 23:51:57,454 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-28 23:51:57,454 > [100000] 모의투자 조회완료
+[DEBUG|open_api.py:1479] 2021-06-28 23:51:57,456 > _opw00001!!!
+[DEBUG|open_api.py:1483] 2021-06-28 23:51:57,456 > 예수금!!!!
+[DEBUG|open_api.py:1484] 2021-06-28 23:51:57,456 > 000000500000000
+[DEBUG|open_api.py:541] 2021-06-28 23:51:57,457 > check_balance 함수에 들어왔습니다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:51:58,042 > 4
+[DEBUG|open_api.py:296] 2021-06-28 23:51:58,072 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-28 23:51:58,072 > [571578] 모의투자 해당조회내역이 없습니다.
+[DEBUG|open_api.py:1632] 2021-06-28 23:51:58,074 > _opw00018!!!
+[DEBUG|collector_api.py:586] 2021-06-28 23:51:58,078 > db_to_today_profit_list!!!
+[DEBUG|open_api.py:1701] 2021-06-28 23:51:58,078 > reset_opt10073_output!!!
+[DEBUG|open_api.py:1134] 2021-06-28 23:51:58,657 > 5
+[DEBUG|open_api.py:296] 2021-06-28 23:51:58,687 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-28 23:51:58,687 >  조회가 완료되었습니다.
+[DEBUG|open_api.py:1598] 2021-06-28 23:51:58,688 > _opt10073!!!
+[DEBUG|open_api.py:1619] 2021-06-28 23:51:58,688 > _opt10073 end!!!
+[DEBUG|collector_api.py:604] 2021-06-28 23:51:58,689 > self.opt10073_output['multi']!!!!!
+[DEBUG|collector_api.py:605] 2021-06-28 23:51:58,690 > []
+[DEBUG|collector_api.py:627] 2021-06-28 23:51:58,692 > today_profit_item!!!
+[DEBUG|collector_api.py:628] 2021-06-28 23:51:58,692 > Empty DataFrame
+Columns: [date, code, code_name, amount, today_profit, earning_rate]
+Index: []
+[DEBUG|collector_api.py:923] 2021-06-28 23:51:58,698 > py_check_balance!!!
+[DEBUG|open_api.py:1134] 2021-06-28 23:51:59,285 > 6
+[DEBUG|open_api.py:296] 2021-06-28 23:51:59,315 > _receive_msg 함수에 들어왔습니다!
+[DEBUG|open_api.py:304] 2021-06-28 23:51:59,315 >  조회가 완료되었습니다.
+[DEBUG|open_api.py:1496] 2021-06-28 23:51:59,317 > _opt10074!!!
+[DEBUG|open_api.py:1505] 2021-06-28 23:51:59,317 > today_profit
+[DEBUG|open_api.py:1506] 2021-06-28 23:51:59,317 > 0
+[DEBUG|collector_api.py:690] 2021-06-28 23:51:59,324 > self.open_api.today!!!!!!!!
+[DEBUG|collector_api.py:691] 2021-06-28 23:51:59,324 > 20210628
+[DEBUG|collector_api.py:748] 2021-06-28 23:51:59,401 > jango_data rows!!!
+[DEBUG|collector_api.py:749] 2021-06-28 23:51:59,401 > [('20210609',), ('20210616',), ('20210624',), ('20210625',), ('20210627',), ('20210628',)]
+[DEBUG|collector_api.py:751] 2021-06-28 23:51:59,402 > jango_data len(rows)!!!
+[DEBUG|collector_api.py:753] 2021-06-28 23:51:59,402 > 6
+[DEBUG|open_api.py:581] 2021-06-28 23:51:59,707 > db_to_possesed_item 함수에 들어왔습니다!
+[DEBUG|open_api.py:1188] 2021-06-28 23:51:59,825 > possess_item 테이블에는 있는데 all_item_db에 없는 종목들 처리!!!
+[DEBUG|open_api.py:1189] 2021-06-28 23:51:59,826 > []
+[DEBUG|collector_api.py:174] 2021-06-28 23:51:59,830 > db_to_daily_craw 함수에 들어왔습니다!
+[DEBUG|collector_api.py:194] 2021-06-28 23:51:59,871 > ++++++++++++++DRB동일++++++++++++++++++++1/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:51:59,871 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:51:59,915 > 7
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:00,345 > ++++++++++++++DSR++++++++++++++++++++2/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:00,345 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:00,531 > 8
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:00,860 > ++++++++++++++GS글로벌++++++++++++++++++++3/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:00,860 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:01,147 > 9
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:01,443 > ++++++++++++++HDC현대산업개발++++++++++++++++++++4/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:01,444 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:01,764 > 10
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:02,061 > ++++++++++++++KEC++++++++++++++++++++5/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:02,062 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:02,382 > 11
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:02,662 > ++++++++++++++KG동부제철++++++++++++++++++++6/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:02,662 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:02,997 > 12
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:03,374 > ++++++++++++++KG케미칼++++++++++++++++++++7/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:03,374 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:03,612 > 13
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:03,916 > ++++++++++++++KTis++++++++++++++++++++8/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:03,917 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:04,231 > 14
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:04,515 > ++++++++++++++LG이노텍++++++++++++++++++++9/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:04,515 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:04,853 > 15
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:05,174 > ++++++++++++++LG전자++++++++++++++++++++10/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:05,175 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:05,468 > 16
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:05,745 > ++++++++++++++LG헬로비전++++++++++++++++++++11/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:05,745 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:06,085 > 17
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:06,355 > ++++++++++++++OCI++++++++++++++++++++12/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:06,355 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:06,702 > 18
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:06,968 > ++++++++++++++SK이노베이션++++++++++++++++++++13/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:06,968 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:07,317 > 19
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:07,599 > ++++++++++++++STX++++++++++++++++++++14/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:07,599 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:07,933 > 20
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:08,251 > ++++++++++++++WISCOM++++++++++++++++++++15/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:08,251 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:08,548 > 21
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:08,871 > ++++++++++++++갤럭시아에스엠++++++++++++++++++++16/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:08,871 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:09,166 > 22
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:09,451 > ++++++++++++++경농++++++++++++++++++++17/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:09,451 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:09,781 > 23
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:10,087 > ++++++++++++++경동인베스트++++++++++++++++++++18/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:10,087 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:10,397 > 24
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:10,690 > ++++++++++++++국도화학++++++++++++++++++++19/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:10,690 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:11,024 > 25
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:11,327 > ++++++++++++++국동++++++++++++++++++++20/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:11,327 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:11,649 > 26
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:11,970 > ++++++++++++++극동유화++++++++++++++++++++21/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:11,971 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:12,267 > 27
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:12,578 > ++++++++++++++기아++++++++++++++++++++22/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:12,578 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:12,882 > 28
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:13,193 > ++++++++++++++까뮤이앤씨++++++++++++++++++++23/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:13,194 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:13,499 > 29
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:13,800 > ++++++++++++++대덕전자++++++++++++++++++++24/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:13,800 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:14,116 > 30
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:14,288 > ++++++++++++++대우건설++++++++++++++++++++25/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:14,289 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:14,732 > 31
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:15,013 > ++++++++++++++대웅++++++++++++++++++++26/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:15,014 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:15,349 > 32
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:15,660 > ++++++++++++++덴티움++++++++++++++++++++27/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:15,660 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:15,965 > 33
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:16,234 > ++++++++++++++두산인프라코어++++++++++++++++++++28/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:16,234 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:16,584 > 34
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:16,871 > ++++++++++++++두산중공업++++++++++++++++++++29/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:16,871 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:17,207 > 35
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:17,500 > ++++++++++++++디피씨++++++++++++++++++++30/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:17,500 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:17,832 > 36
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:18,134 > ++++++++++++++락앤락++++++++++++++++++++31/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:18,134 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:18,450 > 37
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:18,731 > ++++++++++++++롯데정보통신++++++++++++++++++++32/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:18,731 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:19,065 > 38
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:19,321 > ++++++++++++++마니커++++++++++++++++++++33/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:19,322 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:19,682 > 39
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:19,978 > ++++++++++++++메리츠증권++++++++++++++++++++34/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:19,979 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:20,300 > 40
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:20,661 > ++++++++++++++명문제약++++++++++++++++++++35/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:20,662 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:20,915 > 41
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:21,200 > ++++++++++++++모두투어리츠++++++++++++++++++++36/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:21,201 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:21,532 > 42
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:21,778 > ++++++++++++++부국증권++++++++++++++++++++37/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:21,778 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:22,147 > 43
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:22,442 > ++++++++++++++삼성SDI++++++++++++++++++++38/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:22,442 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:22,764 > 44
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:23,101 > ++++++++++++++삼성엔지니어링++++++++++++++++++++39/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:23,101 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:23,390 > 45
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:23,698 > ++++++++++++++삼성출판사++++++++++++++++++++40/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:23,698 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:24,009 > 46
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:24,306 > ++++++++++++++삼성화재++++++++++++++++++++41/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:24,307 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:24,626 > 47
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:24,916 > ++++++++++++++삼영화학++++++++++++++++++++42/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:24,916 > get_total_data 함수에 들어왔다!
+[DEBUG|logging_pack.py:45] 2021-06-28 23:52:51,252 > debug 모드!
+[INFO|logging_pack.py:46] 2021-06-28 23:52:51,252 > info 모드!
+[WARNING|logging_pack.py:47] 2021-06-28 23:52:51,252 > warning 모드!
+[ERROR|logging_pack.py:48] 2021-06-28 23:52:51,252 > error 모드!
+[CRITICAL|logging_pack.py:49] 2021-06-28 23:52:51,252 > critical 모드!
+[DEBUG|open_api.py:309] 2021-06-28 23:52:55,992 > connected
+[DEBUG|open_api.py:250] 2021-06-28 23:52:55,992 > account_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:257] 2021-06-28 23:52:55,992 > get_login_info 함수에 들어왔습니다!
+[DEBUG|open_api.py:253] 2021-06-28 23:52:55,992 > 계좌번호 : 8001277211
+[DEBUG|open_api.py:166] 2021-06-28 23:52:55,993 > variable_setting 함수에 들어왔다.
+[DEBUG|open_api.py:180] 2021-06-28 23:52:55,993 > 모의투자 1!!
+[DEBUG|open_api.py:213] 2021-06-28 23:52:55,993 > db name !!! : JackBot1_imi1
+[DEBUG|open_api.py:204] 2021-06-28 23:52:56,022 > JackBot1_imi1 데이터 베이스가 존재한다! 
+[DEBUG|open_api.py:84] 2021-06-28 23:52:56,081 > self.sf.simul_num(알고리즘 번호) : 1
+[DEBUG|open_api.py:85] 2021-06-28 23:52:56,081 > self.sf.db_to_realtime_daily_buy_list_num : 1
+[DEBUG|open_api.py:86] 2021-06-28 23:52:56,081 > self.sf.sell_list_num : 1
+[DEBUG|open_api.py:92] 2021-06-28 23:52:56,113 > setting_data db 존재한다!!!
+[DEBUG|open_api.py:105] 2021-06-28 23:52:56,186 > get_invest_unit 함수에 들어왔습니다!
+[DEBUG|collector_api.py:38] 2021-06-28 23:52:58,012 > code_update_check 함수에 들어왔습니다.
+[DEBUG|collector_api.py:174] 2021-06-28 23:52:58,014 > db_to_daily_craw 함수에 들어왔습니다!
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:58,082 > ++++++++++++++삼영화학++++++++++++++++++++42/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:58,082 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:58,083 > 1
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:59,461 > ++++++++++++++삼호개발++++++++++++++++++++43/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:59,461 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:52:59,461 > 2
+[DEBUG|collector_api.py:194] 2021-06-28 23:52:59,729 > ++++++++++++++상상인증권++++++++++++++++++++44/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:52:59,729 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:00,079 > 3
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:00,404 > ++++++++++++++선진++++++++++++++++++++45/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:00,405 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:00,695 > 4
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:00,982 > ++++++++++++++세기상사++++++++++++++++++++46/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:00,982 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:01,311 > 5
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:01,604 > ++++++++++++++세방전지++++++++++++++++++++47/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:01,605 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:01,926 > 6
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:02,251 > ++++++++++++++세아제강지주++++++++++++++++++++48/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:02,251 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:02,542 > 7
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:02,870 > ++++++++++++++신한알파리츠++++++++++++++++++++49/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:02,870 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:03,158 > 8
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:03,419 > ++++++++++++++신한지주++++++++++++++++++++50/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:03,419 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:03,776 > 9
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:04,058 > ++++++++++++++쌍방울++++++++++++++++++++51/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:04,059 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:04,393 > 10
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:04,646 > ++++++++++++++쌍용차++++++++++++++++++++52/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:04,646 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:05,012 > 11
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:05,334 > ++++++++++++++쎌마테라퓨틱스++++++++++++++++++++53/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:05,334 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:05,639 > 12
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:05,971 > ++++++++++++++에이블씨엔씨++++++++++++++++++++54/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:05,971 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:06,260 > 13
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:06,551 > ++++++++++++++영화금속++++++++++++++++++++55/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:06,551 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:06,875 > 14
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:07,206 > ++++++++++++++오뚜기++++++++++++++++++++56/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:07,206 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:07,494 > 15
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:07,793 > ++++++++++++++우진++++++++++++++++++++57/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:07,794 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:08,112 > 16
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:08,403 > ++++++++++++++윌비스++++++++++++++++++++58/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:08,403 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:08,728 > 17
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:09,056 > ++++++++++++++유나이티드제약++++++++++++++++++++59/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:09,056 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:09,343 > 18
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:09,635 > ++++++++++++++이월드++++++++++++++++++++60/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:09,635 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:09,961 > 19
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:10,241 > ++++++++++++++인지컨트롤스++++++++++++++++++++61/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:10,241 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:10,577 > 20
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:10,874 > ++++++++++++++인터지스++++++++++++++++++++62/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:10,874 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:11,194 > 21
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:11,504 > ++++++++++++++일성건설++++++++++++++++++++63/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:11,504 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:11,819 > 22
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:12,119 > ++++++++++++++일진다이아++++++++++++++++++++64/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:12,120 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:12,440 > 23
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:12,743 > ++++++++++++++자화전자++++++++++++++++++++65/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:12,744 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:13,055 > 24
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:13,356 > ++++++++++++++제일약품++++++++++++++++++++66/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:13,357 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:13,672 > 25
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:13,938 > ++++++++++++++제일파마홀딩스++++++++++++++++++++67/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:13,938 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:14,289 > 26
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:14,625 > ++++++++++++++조비++++++++++++++++++++68/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:14,626 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:14,905 > 27
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:15,224 > ++++++++++++++조흥++++++++++++++++++++69/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:15,224 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:15,523 > 28
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:15,834 > ++++++++++++++종근당홀딩스++++++++++++++++++++70/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:15,834 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:16,138 > 29
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:16,437 > ++++++++++++++지역난방공사++++++++++++++++++++71/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:16,438 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:16,753 > 30
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:17,039 > ++++++++++++++코오롱인더++++++++++++++++++++72/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:17,040 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:17,372 > 31
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:17,651 > ++++++++++++++키다리스튜디오++++++++++++++++++++73/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:17,651 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:17,997 > 32
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:18,294 > ++++++++++++++태경산업++++++++++++++++++++74/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:18,294 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:18,614 > 33
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:18,917 > ++++++++++++++태양금속++++++++++++++++++++75/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:18,917 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:19,231 > 34
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:19,553 > ++++++++++++++POSCO++++++++++++++++++++76/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:19,553 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:19,847 > 35
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:20,176 > ++++++++++++++포스코강판++++++++++++++++++++77/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:20,177 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:20,463 > 36
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:20,753 > ++++++++++++++한국공항++++++++++++++++++++78/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:20,753 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:21,079 > 37
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:21,386 > ++++++++++++++한국종합기술++++++++++++++++++++79/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:21,386 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:21,694 > 38
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:21,966 > ++++++++++++++한국패러랠++++++++++++++++++++80/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:21,967 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:22,312 > 39
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:22,573 > ++++++++++++++한솔로지스틱스++++++++++++++++++++81/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:22,573 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:22,927 > 40
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:23,236 > ++++++++++++++한일철강++++++++++++++++++++82/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:23,237 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:23,550 > 41
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:23,856 > ++++++++++++++한창제지++++++++++++++++++++83/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:23,856 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:24,166 > 42
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:24,501 > ++++++++++++++한화생명++++++++++++++++++++84/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:24,501 > get_total_data 함수에 들어왔다!
+[DEBUG|open_api.py:1134] 2021-06-28 23:53:24,782 > 43
+[DEBUG|collector_api.py:194] 2021-06-28 23:53:25,050 > ++++++++++++++현대건설++++++++++++++++++++85/2451
+[DEBUG|open_api.py:666] 2021-06-28 23:53:25,050 > get_total_data 함수에 들어왔다!
